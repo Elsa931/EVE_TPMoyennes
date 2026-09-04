@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace EVE_TPmoyennes
+namespace HNI_TPmoyennes
 {
     class Program
     {

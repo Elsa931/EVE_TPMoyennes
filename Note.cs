@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EVE_TPmoyennes
+namespace HNI_TPmoyennes
 {
     // Classes fournies par HNI Institut
     // Ne pas modifier
